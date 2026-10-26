@@ -1,0 +1,5 @@
+[functions.seed-demo-users]
+verify_jwt = false
+
+[functions.yenza-ai]
+verify_jwt = true

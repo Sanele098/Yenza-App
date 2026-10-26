@@ -1,0 +1,13 @@
+{
+  "projectId": "71808614",
+  "functions": {
+    "seed-demo-users": {
+      "hasChanged": false,
+      "hash": "b4dd8cab778f8828bda1a6e3cea7b876fbabf4835bf6a2bc9ac83bf4a0c1fa3b"
+    },
+    "yenza-ai": {
+      "hasChanged": false,
+      "hash": "f5260899bb32eb269cce1579e5ad1f19b7058afd02070976b49e0ab4fa890096"
+    }
+  }
+}
